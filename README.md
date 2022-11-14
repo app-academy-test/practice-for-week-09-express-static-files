@@ -5,7 +5,7 @@ application.
 
 ## Set up
 
-`npm install` the dependencies.
+Run `npm install` the dependencies.
 
 Run `npm run dev` to start the server at [http://localhost:5000] in
 development.
